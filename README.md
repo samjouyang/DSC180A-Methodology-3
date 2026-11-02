@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Sam Ouyang
-saouyang@ucsd.edu
+Sam Ouyang and John Doe
